@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Nonstop",
+  "base_artist": "OH MY GIRL",
+  "createdAt": "2026-01-04T16:10:23.658648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nonstop",
+      "artist": "Drake",
+      "has_synced": false,
+      "path": "select/01_Nonstop_Drake.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nonstop Disco Powerpack",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/02_Nonstop_Disco_Powerpack_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nonstop Madness",
+      "artist": "Treat",
+      "has_synced": false,
+      "path": "select/03_Nonstop_Madness_Treat.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nonstop To Nowhere",
+      "artist": "Faster Pussycat",
+      "has_synced": true,
+      "path": "select/04_Nonstop_To_Nowhere_Faster_Pussycat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nonstop To Nowhere",
+      "artist": "Faster Pussycat",
+      "has_synced": false,
+      "path": "select/05_Nonstop_To_Nowhere_Faster_Pussycat.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Seemingly) Nonstop July",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/06_(Seemingly)_Nonstop_July_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nonstop Disco Powerpack",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/07_Nonstop_Disco_Powerpack_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nonstop",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/08_Nonstop_Drake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hop? Stop? Nonstop!",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/09_Hop__Stop__Nonstop!_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hop? Stop? Nonstop!(off vocal)",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/10_Hop__Stop__Nonstop!(off_vocal)_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nonstop Nite",
+      "artist": "Lordi",
+      "has_synced": false,
+      "path": "select/11_Nonstop_Nite_Lordi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(Seemingly) Nonstop July - 2015 Remaster",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/12_(Seemingly)_Nonstop_July_-_2015_Remaster_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Seemingly) Nonstop July (2015 remaster)",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/13_(Seemingly)_Nonstop_July_(2015_remaster)_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Seemingly) Nonstop July - Live on NRK",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/14_(Seemingly)_Nonstop_July_-_Live_on_NRK_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(Seemingly) Nonstop July (NRK Live)",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/15_(Seemingly)_Nonstop_July_(NRK_Live)_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "NonStop",
+      "artist": "NCT 127",
+      "has_synced": true,
+      "path": "select/16_NonStop_NCT_127.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "NonStop",
+      "artist": "NCT 127",
+      "has_synced": true,
+      "path": "select/17_NonStop_NCT_127.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "(Seemingly) Nonstop July",
+      "artist": "A-Ha",
+      "has_synced": false,
+      "path": "select/18_(Seemingly)_Nonstop_July_A-Ha.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nonstop",
+      "artist": "OH MY GIRL",
+      "has_synced": false,
+      "path": "select/pl_01_Nonstop_OH_MY_GIRL.txt"
+    }
+  ]
+}
